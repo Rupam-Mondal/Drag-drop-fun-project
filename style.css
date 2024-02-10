@@ -5,8 +5,8 @@
 }
 
 .paper{
-    height: 100px;
-    width: 100px;
+    height:250px;
+    width: 250px;
     border: 1px solid white;
     position: absolute;
 }
