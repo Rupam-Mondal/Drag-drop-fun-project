@@ -53,7 +53,7 @@ class Paper{
         })
 
         window.addEventListener('mouseup' , (e) => {
-            console.log("realeased");
+            this.holdpaper = false;
         })
     }
 }

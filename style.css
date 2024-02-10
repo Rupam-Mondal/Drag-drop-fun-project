@@ -5,13 +5,34 @@
 }
 
 .paper{
-    height:250px;
-    width: 250px;
-    border: 1px solid white;
+    height:150px;
+    width: 400px;
     position: absolute;
+    background-image: url('download\ \(1\).jpg');
+    box-shadow: 1px 15px 20px 0px rgba(0 , 0 , 0 , 0.3);
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Zeyada', cursive;
+    padding: 10px 10px 10px 10px;
+    font-weight: 700;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.heading{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Zeyada', cursive;
 }
 .container{
-    background-color: black;
+    background-image: url('4dc08b8c517bcada490162e00852390a.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 100vh;
     width: 100vw;
     display: flex;
